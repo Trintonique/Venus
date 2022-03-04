@@ -1,2 +1,0 @@
-copy "%USERPROFILE%\Desktop\Venus\Venus.exe" "%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
-"%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Venus.exe"
