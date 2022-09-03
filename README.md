@@ -1,3 +1,3 @@
-Poorly made malware that was partially copied from Stackoverflow.
+Malware.
 
-Yes, it was named after Venus from Huniepop.
+It sucks.
